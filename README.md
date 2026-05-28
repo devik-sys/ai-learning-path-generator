@@ -37,7 +37,7 @@ An intelligent AI-powered workflow that generates personalized learning paths, c
 
 ## 📸 Workflow Preview
 
-(Add screenshot here later)
+![Workflow](workflow.png)
 
 ---
 
