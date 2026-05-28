@@ -41,16 +41,19 @@ An intelligent AI-powered workflow that generates personalized learning paths, c
 
 ---
 
-## 💡 Example Use Case
+## 🧪 Sample Prompt
 
-Input:
-I want to become a Data Scientist
+"Generate a 2-week learning plan for C++ starting June 20"
 
-Output:
-- Step-by-step roadmap  
-- Topics to learn  
-- Timeline  
-- Resources  
+## 📸 Real Output (AI Generated)
+
+### 📄 Learning Plan (Google Docs)
+![Docs Output](docs.png)
+
+---
+
+### 📅 Scheduled Plan (Google Calendar)
+![Calendar Output](calendar.png)
 
 ---
 
